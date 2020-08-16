@@ -10,4 +10,11 @@ Unix, Microsoft Windows 10
 Snipe-IT, JAMP,REST
 # Web service and Framework: 
 Flask, Dash,Postman, PIP, Jira.
+# sample(without real data)
 ![Image text](https://github.com/zhuoran-cheng/img/blob/master/uits.png)
+# instruction
+export FLASK_APP=main.py
+python -m flask run
+
+then open another Terminal:
+python app.py
