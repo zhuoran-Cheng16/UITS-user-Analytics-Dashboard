@@ -14,7 +14,9 @@ Flask, Dash,Postman, PIP, Jira.
 ![Image text](https://github.com/zhuoran-cheng/img/blob/master/uits.png)
 # instruction
 export FLASK_APP=main.py
+
 python -m flask run
 
 then open another Terminal:
+
 python app.py
